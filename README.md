@@ -39,8 +39,5 @@ my-business-web/
 [บริการของเรา](services.html)
 ![index.html](images/shot-services.png)
 
-[บริการของเรา](services.html)
-![index.html](images/shot-services.png)
-
 [ติดต่อเรา](contact.html)
 ![index.html](images/shot-contact.png)
