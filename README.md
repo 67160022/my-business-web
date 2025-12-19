@@ -8,14 +8,13 @@
 
 # โครงสร้างของ website
 
-````text
+```text
 my-business-web/
 ├── index.html (Homepage)
 ├── about.html (About Page)
 ├── services.html (Services Page)
 ├── contact.html (Contact Page)
-├── css/
-│ └── styles.css (Main CSS file)
+├── styles.css
 ├── images/
 │ ├── logo.webp
 │ ├── index.png
@@ -27,7 +26,7 @@ my-business-web/
 │ └── ... (อื่นๆ)
 ├── README.md
 └── .gitignore
-```text
+```
 
 # ลิงก์เข้าสู่หน้าต่างๆ
 
@@ -46,4 +45,7 @@ my-business-web/
 [ติดต่อเรา](contact.html)
 ![contact.html](images/contact1.png)
 ![contact.html](images/contact2.png)
-````
+
+```
+
+```
