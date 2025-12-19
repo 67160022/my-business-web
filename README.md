@@ -8,6 +8,7 @@
 
 # โครงสร้างของ website
 
+````text
 my-business-web/
 ├── index.html (Homepage)
 ├── about.html (About Page)
@@ -16,16 +17,17 @@ my-business-web/
 ├── css/
 │ └── styles.css (Main CSS file)
 ├── images/
-│ ├── logo.png
-│ ├── hero-bg.jpg
-│ ├── service-1.jpg
-│ ├── service-2.jpg
-│ ├── service-3.jpg
-│ ├── team-1.jpg
-│ ├── team-2.jpg
+│ ├── logo.webp
+│ ├── index.png
+│ ├── service1.png
+│ ├── service2.png
+│ ├── service3.png
+│ ├── contact1.png
+│ ├── contact2.png
 │ └── ... (อื่นๆ)
-├── README.md (Project documentation)
+├── README.md
 └── .gitignore
+```text
 
 # ลิงก์เข้าสู่หน้าต่างๆ
 
@@ -44,3 +46,4 @@ my-business-web/
 [ติดต่อเรา](contact.html)
 ![contact.html](images/contact1.png)
 ![contact.html](images/contact2.png)
+````
