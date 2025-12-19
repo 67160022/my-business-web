@@ -30,14 +30,17 @@ my-business-web/
 # ลิงก์เข้าสู่หน้าต่างๆ
 
 [หน้าแรก](index.html)
-![index.html]()
+![index.html](images/index.png)
 
 [เกี่ยวกับเรา](about.html)
-![index.html]()
-![index.html]()
+![about.html](images/about1.png)
+![about.html](images/about2.png)
 
 [บริการของเรา](services.html)
-![index.html]()
+![services.html](images/services1.png)
+![services.html](images/services2.png)
+![services.html](images/services3.png)
 
 [ติดต่อเรา](contact.html)
-![index.html]()
+![contact.html](images/contact1.png)
+![contact.html](images/contact2.png)

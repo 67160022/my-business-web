@@ -81,14 +81,14 @@ th:first-child {
 }
 #header {
   padding: 5px 10px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid ghostwhite;
   margin: 0;
   display: flex;
   position: sticky;
   top: 0;
   align-items: center;
   z-index: 100;
-  background: linear-gradient(#ccffcc, #e0ffe0, #ffffff);
+  background: linear-gradient(#ccffcc);
 }
 .container {
   max-width: 1200px;
