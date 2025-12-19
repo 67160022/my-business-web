@@ -44,7 +44,7 @@ a:hover {
   background-color: azure;
   border-radius: 10px;
   padding: 20px;
-  margin: 10px 0;
+  margin: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
   border: 1px solid black;
   transition: all 0.3s ease;
@@ -73,6 +73,11 @@ th:first-child {
 }
 .section {
   padding: 10px 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  border: 1px solid black;
+  transition: all 0.3s ease;
+  border-radius: 10px;
+  margin: 10px;
 }
 .hero {
   padding: 5px 20px;
@@ -94,9 +99,11 @@ th:first-child {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
-
   background-color: azure;
   border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  border: 1px solid black;
+  transition: all 0.3s ease;
 }
 .container:hover {
   box-shadow: 0 12px 25px rgba(0, 0, 0, 0.16);
