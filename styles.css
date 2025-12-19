@@ -75,32 +75,36 @@ th:first-child {
   padding: 10px 20px;
 }
 .hero {
-  padding: 60px 20px;
-  text-align: center;
+  padding: 5px 20px;
+  text-align: left;
   position: relative;
 }
 #header {
-  padding: 15px 20px;
+  padding: 5px 10px;
   border-bottom: 1px solid black;
   margin: 0;
+  display: flex;
   position: sticky;
   top: 0;
-  z-index: 1000;
+  align-items: center;
+  z-index: 100;
   background: linear-gradient(#ccffcc, #e0ffe0, #ffffff);
 }
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 40px 20px;
+  padding: 20px;
+
+  background-color: azure;
+  border-radius: 10px;
+}
+.container:hover {
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.16);
+  transform: translateY(-2px);
 }
 #footer {
   padding: 30px 20px;
   margin: 5px;
-}
-.nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 .team {
   display: grid;
@@ -115,8 +119,13 @@ form {
   padding: 10px;
   border: 1px solid #ddd;
 }
+.navbar {
+  margin-left: auto;
+  margin-top: 60px;
+}
 .nav-links {
   display: flex;
   gap: 2rem;
+  gap: 12px;
   list-style: none;
 }
